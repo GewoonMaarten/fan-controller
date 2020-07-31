@@ -32,7 +32,7 @@ void setup()
   display.display();
   delay(2000);
   display.clearDisplay();
-  display.setRotation(2);
+  //display.setRotation(2);
   display.setTextSize(1);
   display.setTextColor(WHITE);
 }
